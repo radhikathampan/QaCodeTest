@@ -1,0 +1,17 @@
+{
+  "name": "airwallextest",
+  "version": "1.0.0",
+  "description": "api automation",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mocha": "^6.2.0",
+    "should": "^13.2.3",
+    "supertest": "^4.0.2"
+  }
+}
